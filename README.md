@@ -20,7 +20,7 @@ This repository contains the key scripts, data processing utilities, statistical
 ## Exploratory Analysis and Frequent Itemsets
 - [Frequent Itemsets Main Script](/Exploratory%20work/find_frequent_itemsets/find_frequent_itemsets.py): Identifies frequent co-occurring terms and patterns within the dataset.
 - [Itemsets Script](/Exploratory%20work/find_frequent_itemsets/local_itemsets.py): Processes itemsets locally and supports the main script.
-- [Itemset Co-occurrence Results](/Exploratory%20work/itemsets/): Contains JSON files of co-occurrence analyses for different themes (e.g., authoritarianism, democracy, government).
+- [Itemset Co-occurrence Results](https://github.com/hchen0628/MACS40123-Lab1/tree/main/itemsets): Contains JSON files of co-occurrence analyses for different themes (e.g., authoritarianism, democracy, government).
 - [K-Means Clustering](/Exploratory%20work/Kmeans/): K-Means clustering scripts, results, and cluster centers.
 - [PCA and SVD Results](/Exploratory%20work/PCA/): Scripts and JSON files showing principal component analysis results and top features extracted.
 
