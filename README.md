@@ -17,7 +17,7 @@ This repository contains the key scripts, data processing utilities, statistical
 - [Data Annotation Script](/Data%20Processing/Data_annotation/Data_annotation.py): Annotates data for sentiment, vagueness, and government criticism.
 - [Data Segmentation](/Data%20Processing/Data_segment/segment_all.py): Segments processed data for modeling and analysis.
 
-## Exploratory Analysis and Frequent Itemsets
+## Exploratory Analysis
 - [Frequent Itemsets Main Script](/Exploratory%20work/find_frequent_itemsets/find_frequent_itemsets.py): Identifies frequent co-occurring terms and patterns within the dataset.
 - [Itemsets Script](/Exploratory%20work/find_frequent_itemsets/local_itemsets.py): Processes itemsets locally and supports the main script.
 - [Itemset Co-occurrence Results](https://github.com/hchen0628/MACS40123-Lab1/tree/main/itemsets): Contains JSON files of co-occurrence analyses for different themes (e.g., authoritarianism, democracy, government).
